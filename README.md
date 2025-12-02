@@ -79,5 +79,5 @@ Además de la informática, soy entrenador de tenis 🎾, lo que me ha ayudado a
 
 ---
 
-<p align="center">✨ Gracias por visitar mi perfil — ¡siéntete libre de ver mis proyectos, dar ⭐ y colaborar conmigo!</p>
+<p align="center"> Gracias por visitar mi perfil — ¡siéntete libre de ver mis proyectos!</p>
 
