@@ -17,7 +17,7 @@ Actualmente estoy desarrollándome en:
 - 🏗️ Diseño y pruebas de software en entornos reales
 
 📩 **Contacto:** peportinlopez@gmail.com  
-🔗 **LinkedIn:** *[(añade tu enlace aquí si quieres)](https://www.linkedin.com/in/pep-ortin-lopez/)*
+🔗 **LinkedIn:** *[(Perfil LinkedIn)](https://www.linkedin.com/in/pep-ortin-lopez/)*
 
 ---
 
